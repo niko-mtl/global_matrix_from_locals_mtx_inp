@@ -1,1 +1,1 @@
-# global_matrix_from_locals_mtx_inp
+# Global Stiffness Matrix Assembly Using Local Stiffness Matrices(.mtx) and Mapping (.inp) for Abaqus
